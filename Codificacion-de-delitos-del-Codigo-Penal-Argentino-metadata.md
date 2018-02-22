@@ -43,11 +43,11 @@ Recursos Disponibles
 
 -   **delito_tipo (string):** tipo de delito. Toma los valores:
 
-    -   Específico: refiere a aquellos delitos descriptos con el mayor grado de detalle posible en relación con el artículo, el párrafo, el inciso y la parte, en los casos que corresponda. Por ejemplo para *“Art. 189 bis Inc. 1 Parte 1”*
+    -   Específico: refiere a aquellos delitos descriptos con el mayor grado de detalle posible en relación con el artículo, el párrafo, el inciso y la parte, en los casos que corresponda. Ejemplo *“Art. 189 bis Inc. 1 Parte 1”*
 
-    -   General: refiere a aquellos delitos descriptos con menor grado de detalle. A todos los artículos le corresponde un registro general, exceptuando los casos de los delitos relacionados con homicidios, abusos sexuales, amenazas, daños, robos y hurtos. Por ejemplo para *“Art. 97”*
+    -   General: refiere a aquellos delitos descriptos con menor grado de detalle. A todos los artículos le corresponde un registro general, exceptuando los casos de los delitos relacionados con homicidios, abusos sexuales, amenazas, daños, robos y hurtos. Ejemplo *“Art. 97”*
 
-    -   Específico/General: refiere a aquellos casos en que por artículo se corresponde un solo delito. Por ejemplo para *“Art. 79”*
+    -   Específico/General: refiere a aquellos casos en que por artículo se corresponde un solo delito. Ejemplo *“Art. 79”*
 
 -   **delito_codigo (int):** código único para la identificación específica del delito mencionado
 
@@ -55,7 +55,7 @@ Recursos Disponibles
 
 [Código Penal de la Nación Argentina Ley 11.179](http://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16546/texact.htm)
 
-Leyes especiales del Código Penal de la Nación Argentina:
+Leyes especiales:
 
 [Ley 23.737](http://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/138/norma.htm)
 
