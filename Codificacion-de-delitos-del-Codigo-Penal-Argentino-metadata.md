@@ -4,7 +4,7 @@ Codificación de delitos del Código Penal Argentino
 Características
 ---------------
 
--   **Fecha de Primera** **Publicación:**
+-   **Fecha de Primera** **Publicación:** 23/02/2018
 
 -   **Tags o Etiquetas:** delitos, cárceles, presos, código penal, legislación, leyes especiales, robos, hurtos, homicidios, amenzas, daños, abusos sexuales
 
