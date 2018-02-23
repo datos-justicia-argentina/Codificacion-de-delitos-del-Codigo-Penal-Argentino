@@ -43,7 +43,7 @@ Recursos Disponibles
 
 -   **delito_articulo (string):** artículo, párrafo, inciso y parte en la que está mencionado el delito
 
--   **delito_descripción (string):** descripción del delito
+-   **delito_descripcion (string):** descripción del delito
 
 -   **delito_tipo (string):** tipo de delito. Esta clasificación da cuenta del tipo de correlación que se establece entre cada elemento de la tabla con el Código Penal. Toma los valores:
 
