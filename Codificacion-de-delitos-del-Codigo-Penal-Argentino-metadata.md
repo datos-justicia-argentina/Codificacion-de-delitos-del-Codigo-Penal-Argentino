@@ -29,7 +29,7 @@ Recursos Disponibles
 
 -   **Nombre del archivo:** codificación-delitos-codigo-penal-argentino-AAAA-MM-DD.csv
 
--   **Descripción del contenido:** detalle de cada uno de los delitos enunciados en el Código Penal de la Nación y algunas leyes especiales, con la descripción de los mismos y con un código respectivo
+-   **Descripción del contenido:** Contiene el detalle de cada uno de los delitos enunciados en el Código Penal de la Nación y algunas leyes especiales, con la descripción de los mismos y con un código respectivo
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
