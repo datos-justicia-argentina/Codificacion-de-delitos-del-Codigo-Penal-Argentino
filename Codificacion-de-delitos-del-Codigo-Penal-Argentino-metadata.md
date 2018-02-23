@@ -41,11 +41,11 @@ Recursos Disponibles
 
 -   **titulo_completo (string):** número de título, descripción del título y número de capítulo en el que se encuentra el delito mencionado. Para las leyes especiales corresponde el número de ley.
 
--   **delito_articulo (string):** artículo, párrafo, inciso y parte en la que está mencionado el delito
+-   **articulo_delito (string):** artículo, párrafo, inciso y parte en la que está mencionado el delito
 
--   **delito_descripcion (string):** descripción del delito
+-   **descripcion_delito (string):** descripción del delito
 
--   **delito_tipo (string):** tipo de delito. Esta clasificación da cuenta del tipo de correlación que se establece entre cada elemento de la tabla con el Código Penal. Toma los valores:
+-   **tipo_delito (string):** tipo de delito. Esta clasificación da cuenta del tipo de correlación que se establece entre cada elemento de la tabla con el Código Penal. Toma los valores:
 
     -   Específico: refiere a aquellos delitos descriptos con el mayor grado de detalle posible en relación con el artículo, el párrafo, el inciso y la parte, en los casos que corresponda. Ejemplo *“Art. 189 bis Inc. 1 Parte 1 - Tenencia de armas y explosivos de destrucción masiva”*
 
@@ -53,7 +53,7 @@ Recursos Disponibles
 
     -   Específico/General: refiere a aquellos casos en que por artículo se corresponde un solo delito. Ejemplo *“Art. 83 - Instigación o ayuda al suicidio”*
 
--   **delito_codigo (int):** código único para la identificación específica del delito mencionado
+-   **codigo_delito (string):** código único para la identificación específica del delito mencionado
 
 ### Notas
 
