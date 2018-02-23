@@ -3,7 +3,7 @@ Codificación de delitos del Código Penal Argentino
 
 El Código Penal de la Nación (CPN) establece cuáles son los delitos que conforman el sistema punitivo del país. Sucesivas reformas han extendido su impacto en la vida de los ciudadanos, con el desafío de ponderar el cambiante escenario en que desarrollan su vida en sociedad. La reciente inclusión del delito de Femicidio o bien la definición de “abuso sexual” y las penas contempladas para el mismo dan cuenta de eso.
 
-Luego del trabajo conjunto con las instituciones de justicia de todo el país, firmantes del [Convenio Inter-jurisdiccional de Datos Abiertos de Justicia](https://github.com/datos-justicia-argentina/Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos/blob/master/Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia.pdf), se desarrolló la tabla de delitos aquí presentada, con el objeto de mejorar la inter-operatividad de los entre los sistemas informáticos implementados en las distintas instituciones de justicia de todo el país.
+Luego del trabajo conjunto con las instituciones de justicia de todo el país firmantes del [Convenio Inter-jurisdiccional de Datos Abiertos de Justicia](https://github.com/datos-justicia-argentina/Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos/blob/master/Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia.pdf), se desarrolló la tabla de delitos aquí presentada, con el objeto de mejorar la inter-operatividad en materia de legislación penal.
 
 Características
 ---------------
