@@ -45,7 +45,7 @@ Recursos Disponibles
 
     -   Específico: refiere a aquellos delitos descriptos con el mayor grado de detalle posible en relación con el artículo, el párrafo, el inciso y la parte, en los casos que corresponda. Ejemplo *“Art. 189 bis Inc. 1 Parte 1 - Tenencia de armas y explosivos de destrucción masiva”*
 
-    -   General: refiere a aquellos delitos descriptos con menor grado de detalle. A todos los artículos le corresponde un valor general que agrupa a todos los incisos y partes que le corresponden. Por ejemplo *“Art. 97 - Duelo regular”*. No contienen valor general los artículos correspondientes a los delitos de homicidios, abusos sexuales, amenazas, daños, robos y hurtos
+    -   General: refiere a aquellos delitos descriptos con menor grado de detalle. A todos los artículos le corresponde un valor general que agrupa a todos los incisos y partes que le corresponden. Por ejemplo *“Art. 97 - Duelo regular”*. No contienen valor *general* los artículos correspondientes a los delitos de homicidios, abusos sexuales, amenazas, daños, robos y hurtos
 
     -   Específico/General: refiere a aquellos casos en que por artículo se corresponde un solo delito. Ejemplo *“Art. 83 - Instigación o ayuda al suicidio”*
 
