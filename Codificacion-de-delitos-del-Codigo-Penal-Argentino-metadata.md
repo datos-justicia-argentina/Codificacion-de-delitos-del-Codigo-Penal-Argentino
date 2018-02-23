@@ -5,7 +5,7 @@ El Código Penal de la Nación (CPN) establece cuáles son los delitos que confo
 
 Luego del trabajo conjunto con las instituciones de justicia de todo el país firmantes del [Convenio Inter-jurisdiccional de Datos Abiertos de Justicia](https://github.com/datos-justicia-argentina/Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos/blob/master/Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia.pdf), se desarrolló la tabla de delitos aquí presentada, con el objeto de mejorar la inter-operatividad en materia de legislación penal.
 
-[Link al Conjunto de Datos](http://datos.jus.gob.ar/dataset/codificacion-de-delitos-del-codigo-penal-argentino)
+**[Link al Conjunto de Datos](http://datos.jus.gob.ar/dataset/codificacion-de-delitos-del-codigo-penal-argentino)
 
 Características
 ---------------
