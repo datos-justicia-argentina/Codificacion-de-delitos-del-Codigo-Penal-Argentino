@@ -6,7 +6,7 @@ Características
 
 -   **Fecha de Primera** **Publicación:** 23/02/2018
 
--   **Tags o Etiquetas:** código penal, delitos, legislaciones, leyes especiales, robos, hurtos, homicidios, amenzas, daños, abusos sexuales, cárceles, presos
+-   **Tags o Etiquetas:** código penal, delitos, juicios, legislaciones, leyes especiales, robos, hurtos, homicidios, amenzas, daños, abusos sexuales, cárceles, presos
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Programa Justicia Abierta
 
