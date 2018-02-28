@@ -22,7 +22,7 @@ Características
 
 -   **Grupos:** Información Jurídica, Política Criminal
 
--   **Frecuencia de Actualización:** Eventualmente
+-   **Frecuencia de Actualización:** Eventual
 
 Recursos Disponibles
 --------------------
