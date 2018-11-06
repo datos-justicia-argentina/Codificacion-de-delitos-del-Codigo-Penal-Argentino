@@ -59,6 +59,8 @@ Recursos Disponibles
 
 ### Notas
 
+[Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
+
 Esta tabla de delitos permitirá organizar y uniformar el análisis y la comprensión de los casos judiciales por parte de las instituciones de justicia y de la ciudadanía en general, en cumplimiento con los estándares de Gobierno Abierto fijados en el Plan de Apertura de Datos del Poder Ejecutivo Nacional consagrado por el [Decreto 117/2016](http://servicios.infoleg.gob.ar/infolegInternet/anexos/255000-259999/257755/norma.htm).
 
 A su vez será de gran utilidad en miras a dar cumplimiento con  el Plan de Implementación que tiene por objeto la adaptación de la clasificación del SISTEMA NACIONAL DE INFORMACIÓN CRIMINAL (SNIC), del SISTEMA NACIONAL DE ESTADÍSTICAS SOBRE EJECUCIÓN DE LA PENA (SNEEP) y del SISTEMA NACIONAL DE ESTADÍSTICAS JUDICIALES (SNEJ) a la Clasificación Internacional de Delitos con Fines Estadísticos elaborado por la Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC), dispuesto por la resolución conjunta del Señor Ministro de Justicia y Derechos Humanos y la Señora Ministra de Seguridad [Resolución Conjunta 1-E/2018](http://servicios.infoleg.gob.ar/infolegInternet/verNorma.do?id=306271).
