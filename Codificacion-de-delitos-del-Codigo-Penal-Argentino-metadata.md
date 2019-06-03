@@ -27,15 +27,15 @@ Características
 Recursos Disponibles
 --------------------
 
-### Codificación de delitos del Código Penal Argentino AAAA-MM-DD
+### Codificación de delitos del Código Penal Argentino AAAAMMDD
 
--   **Nombre del archivo:** codificación-delitos-codigo-penal-argentino-AAAA-MM-DD.csv
+-   **Nombre del archivo:** codificación-delitos-codigo-penal-argentino-AAAAMMDD.csv
 
 -   **Descripción del contenido:** se detalla cada uno de los delitos enunciados en el Código Penal de la Nación y algunas leyes especiales, con la descripción de los mismos y con un código respectivo
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** listado actualizado a la fecha AAAAMMDD
 
 ### Campos del recurso
 
