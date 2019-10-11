@@ -59,9 +59,9 @@ Recursos Disponibles
 
 -   **vigente (string):** indica si la norma se encuentra vigente a la fecha de publicación del recurso. Toma los valores SI/NO. Implementado desde la publicación del 11/10/2019.
 
--   **vigencia_desde (date):** indica la fecha desde la cual la norma está vigente. Se toman en cuenta las normas modificadas o incluidas a partir del 23/08/2018. Implementado desde la publicación del 11/10/2019.
+-   **vigencia_desde (date):** indica la fecha desde la cual la norma está vigente. Se toman en cuenta las normas incluidas, modificadas, actualizadas, etc. a partir del 23/08/2018. Implementado desde la publicación del 11/10/2019.
 
--   **vigencia_hasta (date):** indica la fecha hasta la cual la norma está vigente, en aquellos casos en que vigente es NO. Se toman en cuenta las normas modificadasa partir de 22/08/2018. Implementado desde la publicación del 11/10/2019.
+-   **vigencia_hasta (date):** indica la fecha hasta la cual la norma está vigente, en aquellos casos en que el campo "vigente" es NO. Se toman en cuenta las normas que perdieron vigencia a partir de 22/08/2018. Implementado desde la publicación del 11/10/2019.
 
 
 ### Notas
