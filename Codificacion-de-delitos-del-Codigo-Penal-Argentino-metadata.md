@@ -31,7 +31,7 @@ Recursos Disponibles
 
 -   **Nombre del archivo:** codificación-delitos-codigo-penal-argentino-AAAAMMDD.csv
 
--   **Descripción del contenido:** se detalla cada uno de los delitos enunciados en el Código Penal de la Nación y algunas leyes especiales, con la descripción de los mismos y con un código respectivo
+-   **Descripción del contenido:** se detalla cada uno de los delitos enunciados en el Código Penal de la Nación y algunas leyes especiales, con la descripción de los mismos y con un código respectivo. Incluye datos de vigencia de la norma.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -62,6 +62,15 @@ Recursos Disponibles
 -   **vigencia_desde (date):** indica la fecha desde la cual la norma está vigente. Se toman en cuenta las normas incluidas, modificadas, actualizadas, etc. a partir del 23/08/2018. Implementado desde la publicación del 11/10/2019.
 
 -   **vigencia_hasta (date):** indica la fecha hasta la cual la norma está vigente, en aquellos casos en que el campo "vigente" es *No*. Se toman en cuenta las normas que perdieron vigencia a partir de 22/08/2018. Implementado desde la publicación del 11/10/2019.
+
+
+### Codificación de delitos del Código Penal Argentino
+
+-   **Nombre del archivo:** codificación-delitos-codigo-penal-argentino.zip
+
+-   **Descripción del contenido:** contiene todas las tablas de delitos publicadas en el portal. En cada tabla se detallan los delitos enunciados en el Código Penal de la Nación y algunas leyes especiales, con la descripción de los mismos y con un código respectivo. 
+
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 
 ### Notas
