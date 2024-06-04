@@ -14,11 +14,11 @@ Características
 
 -   **Tags o Etiquetas:** abusos sexuales, amenazas, cárceles, código penal, daños, delitos, homicidios, hurtos, legislaciones, leyes especiales, presos, robos
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Programa de Justicia Abierta
+-   **Organización:** Ministerio de Justicia. Secretaría de Justicia. Subsecretaría de Política Criminal
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Programa de Justicia Abierta
+-   **Autor:** Ministerio de Justicia. Secretaría de Justicia. Subsecretaría de Política Criminal
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Programa de Justicia Abierta
+-   **Responsable:** Ministerio de Justicia. Secretaría de Justicia. Subsecretaría de Política Criminal
 
 -   **Grupos:** Información Jurídica, Política Criminal
 
